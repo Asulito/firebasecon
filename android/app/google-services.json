@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854875613893",
+    "project_id": "fir-con-6ee1d",
+    "storage_bucket": "fir-con-6ee1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854875613893:android:10e0386a514fe9c661deac",
+        "android_client_info": {
+          "package_name": "com.asulitodev.firebasecon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvkSJhGkyFk-FgS0sf06tIrBR-0MLtGhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
